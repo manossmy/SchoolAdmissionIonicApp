@@ -1,0 +1,7 @@
+{
+  "name": "School Admission",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
